@@ -95,7 +95,8 @@
 > 🔐 Secure, real-time attendance system using AI & Computer Vision
 
 **Tech Used:** Django, Python, MTCNN, InceptionResnetV1, OpenCV, SQLite  
-✅ Multi-camera | 🎯 High Accuracy | 👤 Login System | 📅 Timetable Integration
+✅ Multi-camera | 🎯 High Accuracy | 👤 Login System | 📅 Timetable Integration  
+🔗 [Code Repository](https://github.com/Mohit68900689/face-recognition-attendance)
 
 ---
 
@@ -112,8 +113,6 @@
 
 **Tech Used:** Python, pyttsx3, SpeechRecognition, Wikipedia API, Google API  
 🎤 Voice Commands | ☁️ Real-time Info | 🎶 Music & Weather
-
-
 
 ### 📈 GitHub Stats
 
@@ -145,12 +144,9 @@
 
 ### 👀 Profile Views
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohit68900689&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
----
 
 ---
 
