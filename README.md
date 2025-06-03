@@ -96,7 +96,7 @@
 
 **Tech Used:** Django, Python, MTCNN, InceptionResnetV1, OpenCV, SQLite  
 ✅ Multi-camera | 🎯 High Accuracy | 👤 Login System | 📅 Timetable Integration  
-🔗 [Code Repository](https://github.com/Mohit68900689/face-recognition-attendance)
+🔗 [Code Repository](https://github.com/Mohit68900689/Face-Recognition-Attendance-System)
 
 ---
 
